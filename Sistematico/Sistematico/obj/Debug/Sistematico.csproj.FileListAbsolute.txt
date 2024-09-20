@@ -1,0 +1,11 @@
+C:\Users\labc202\Documents\cerl\Sistematico\Sistematico\obj\Debug\Sistematico.csproj.AssemblyReference.cache
+C:\Users\labc202\Documents\cerl\Sistematico\Sistematico\obj\Debug\Sistematico.csproj.SuggestedBindingRedirects.cache
+C:\Users\labc202\Documents\cerl\Sistematico\Sistematico\obj\Debug\Sistematico.Form1.resources
+C:\Users\labc202\Documents\cerl\Sistematico\Sistematico\obj\Debug\Sistematico.Properties.Resources.resources
+C:\Users\labc202\Documents\cerl\Sistematico\Sistematico\obj\Debug\Sistematico.csproj.GenerateResource.cache
+C:\Users\labc202\Documents\cerl\Sistematico\Sistematico\obj\Debug\Sistematico.csproj.CoreCompileInputs.cache
+C:\Users\labc202\Documents\cerl\Sistematico\Sistematico\bin\Debug\Sistematico.exe.config
+C:\Users\labc202\Documents\cerl\Sistematico\Sistematico\bin\Debug\Sistematico.exe
+C:\Users\labc202\Documents\cerl\Sistematico\Sistematico\bin\Debug\Sistematico.pdb
+C:\Users\labc202\Documents\cerl\Sistematico\Sistematico\obj\Debug\Sistematico.exe
+C:\Users\labc202\Documents\cerl\Sistematico\Sistematico\obj\Debug\Sistematico.pdb
